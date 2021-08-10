@@ -1,0 +1,12 @@
+Void main()
+{
+Int num1,num2,product;
+Clrscr();
+printf("enter first number");
+scanf("%d &num1);
+printf("enter number");
+scanf("%d &num2");
+product=num1+num2;
+printf(" product is equal to %d", product);
+getch();
+}
